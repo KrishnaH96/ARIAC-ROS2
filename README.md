@@ -36,3 +36,16 @@ replaced with a new part if available. In any case, the faulty parts cannot be u
 orders as they do not count for the points in the competition.
 Through this project, the aim is to complete all the essential activities of robot control and motion
 and address the above agility challenges of ARIAC.
+
+
+The video:
+
+https://github.com/KrishnaH96/ARIAC-ROS2/assets/113392023/f2803e0f-5ad1-4b95-918e-b09024ff2ecc
+
+
+https://github.com/KrishnaH96/ARIAC-ROS2/assets/113392023/c952a0fa-ded1-459b-9146-13c181936bb1
+
+
+
+
+
